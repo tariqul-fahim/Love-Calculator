@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "love-calculator"
+    }
+  },
+  "defaultProject": "love-calculator",
+  "cli": {
+    "analytics": false
+  }
 }
